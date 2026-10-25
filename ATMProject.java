@@ -28,7 +28,6 @@ public class ATMProject {
     }
 
     // Input
-
     private static int readInt(String prompt) {
         while (true) {
             System.out.println(prompt);
